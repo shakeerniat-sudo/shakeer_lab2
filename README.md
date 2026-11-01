@@ -248,6 +248,10 @@ Verified the database records and changes using SQLite CLI.
 <img width="1917" height="1038" alt="SQLite Database Verification" src="https://github.com/user-attachments/assets/b97c0fbf-f998-453c-9c4c-ec4925861229" />
 
 
+<img width="1917" height="1078" alt="Screenshot 2026-11-01 150949" src="https://github.com/user-attachments/assets/0703a1a6-de99-4965-ae90-cbce40d1f001" />
+
+
+
 ## 9. Important Concepts Implemented
 
 ### Asynchronous Database Operations
